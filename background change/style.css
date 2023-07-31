@@ -1,0 +1,27 @@
+html, body{
+    height: 100%;
+}
+body {
+    text-align: center;
+}
+
+.background{
+    background-color: lightgrey;
+}
+
+.kotak{
+    width: 25px;
+    height: 25px;
+    margin: 10px auto;
+}
+
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+.green {
+    background-color: green;
+}
+
